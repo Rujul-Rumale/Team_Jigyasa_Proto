@@ -32,4 +32,4 @@ Developed by Team Jigyasa.
 
 ---
 
-![Views](https://komarev.com/ghpvc/?username=Rujul-Rumale&repo=Team_Jigyasa_Proto&label=Views&color=0e75b6)
+![Views](https://hits.sh/github.com/Rujul-Rumale/Team_Jigyasa_Proto.svg?style=flat-square&label=views&color=0e75b6&labelColor=555)
