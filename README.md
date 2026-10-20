@@ -29,3 +29,7 @@ Prototype and CAD render images will be added here.
 Developed by Team Jigyasa.
 
 ---
+
+---
+
+![Views](https://komarev.com/ghpvc/?username=Rujul-Rumale&repo=Team_Jigyasa_Proto&label=Views&color=0e75b6)
